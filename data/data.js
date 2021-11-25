@@ -95,7 +95,7 @@ var dataForConferencet = [
     type: "(Oral)"
   },
   {
-    names: "Q Wang, J Wu, Z Wang, M Liu, M Ma, Z Zhou",
+    names: "Q. Wang, J. Wu, Z. Wang, M. Liu, M. Ma, Z. Zhou",
     paper_title: "Predicting Pathological Complete Response Through Automatic Belief Rule Base in Gastric Cancer",
     journel: "MEDICAL PHYSICS",
     time: "2021, 48(6).",
