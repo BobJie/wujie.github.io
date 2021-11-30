@@ -4,7 +4,7 @@ var dataForJournalt = [
     names: "J. Wu, Q. Wang, Z. Wang, Z. Zhou",
     paper_title: "AutoBRB: An Automated Belief Rule Base Model for Pathologic Complete Response Prediction in Gastric Cancer",
     journel: "Computers in Biology and Medicine",
-    time: "(Accept)"
+    time: "(Accepted)"
   },
   {
     names: "X. Zhang, W. Ma, C. Li, J. Wu, X. Tang, L. Jiao",
