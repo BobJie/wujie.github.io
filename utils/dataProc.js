@@ -76,12 +76,11 @@ function renderList(list, parentEle, isconf) {
     spanTime.innerHTML = ele.time;
     li.appendChild(spanTime);
 
-    if (isconf == 1) {
-      var spantype = document.createElement("span");
-      spantype.innerHTML = ele.type;
-      spantype.style.fontWeight = "Bold";
-      li.appendChild(spantype)
-    }
+    
+    var spantype = document.createElement("span");
+    spantype.innerHTML = ele.type;
+    spantype.style.fontWeight = "Bold";
+    li.appendChild(spantype)    
 
     parent.appendChild(li);
 
