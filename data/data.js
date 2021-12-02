@@ -12,7 +12,7 @@ var dataForJournalt = [
     paper_title: "Fully Convolutional Network-Based Ensemble Method for Road Extraction from Aerial Images",
     journel: "IEEE Geoscience and Remote Sensing Letters",
     time: "2019, 17(10): 1777-1781.",
-    type: "(中科院SCI三区, JCR Q1)"
+    type: "(中科院SCI三区, JCR Q2)"
   },
   {
     names: "F. Liu, J. Wu, LL Li, L.C. Jiao, H.X. Hao, X.R. Zhang",
