@@ -15,7 +15,7 @@ var dataForJournalt = [
     type: "(SCI, IF=3.534)"
   },
   {
-    names: "F. Liu, J. Wu, LL Li, L.C. Jiao, H.X. Hao, X.R. Zhang",
+    names: "F. Liu, J. Wu, L.L. Li, L.C. Jiao, H.X. Hao, X.R. Zhang",
     paper_title: "A Hybrid Method of SAR Speckle Reduction Based on Geometric-Structural Block and Adaptive Neighborhood",
     journel: "IEEE Transactions on Geoscience and Remote Sensing",
     time: "2018, 53(9): 5751-5764.",
@@ -66,54 +66,61 @@ var dataForJournalt = [
   }
 ];
 
-var dataForConferencet = [
-  {
-    names: "J. Wu, L.L.Yu, M. Liu, M. Ma",
-    paper_title: "Texture and Intensity Fusion based SAR Image Change Detection",
-    journel: "BigSARData",
-    time: "NanJing, 2021.",
-    type: "(Oral)"
-  },
-  {
-    names: "G. Luis, J. Wu, C. F. Alejandro ",
-    paper_title: "A Framework for Statistical Nonlocal Means Noise Reduction in PolSAR Data",
-    journel: "IGARSS",
-    time: "Brussels, 2021.",
-    type: "(Oral)"
-  },
-  {
-    names: "M. Ma, Q. Zhu, X. Huang, J. Wu",
-    paper_title: "A Recognition Method of Hand Gesture Based on Dual-SDAE",
-    journel: "NCAA",
-    time: "ShenZhen, 2020.",
-    type: "(Oral)"
-  },
-  {
-    names: "J. Wu, M. Ma, M. Liu",
-    paper_title: "An Adaptive Region-Based Method for Speckle Reduction in SAR Images with Local Geometric Correlation",
-    journel: "IGARSS",
-    time: "Valencia, 2018.",
-    type: "(Poster)"
-  },
-  {
-    names: "M. Ma, Z. Chen, J. Wu",
-    paper_title: "A Recognition Method of Hand Gesture with CNN-SVM Model",
-    journel: "BIC-TA",
-    time: "Xi'an, 2016.",
-    type: "(Oral)"
-  },
-  {
-    names: "M. Ma, X. Xu, J. Wu, M. Guo",
-    paper_title: "Design and analyze the structure based on deep belief network for gesture recognition",
-    journel: "ICACI",
-    time: "Xiamen, 2018.",
-    type: "(Oral)"
-  },
+var dataForConferencet = [  
   {
     names: "Q. Wang, J. Wu, Z. Wang, M. Liu, M. Ma, Z. Zhou",
     paper_title: "Predicting Pathological Complete Response Through Automatic Belief Rule Base in Gastric Cancer",
     journel: "MEDICAL PHYSICS",
     time: "2021, 48(6).",
     type: "(Oral, SCI, IF=4.071) "
+  },
+  {
+    names: "J. Wu, L.L.Yu, M. Liu, M. Ma",
+    paper_title: "Texture and Intensity Fusion based SAR Image Change Detection",
+    journel: "2021 SAR in Big Data Era (BIGSARDATA)",
+    time: "NanJing, 2021.",
+    type: "(Oral)"
+  },
+  {
+    names: "G. Luis, J. Wu, C. F. Alejandro ",
+    paper_title: "A Framework for Statistical Nonlocal Means Noise Reduction in PolSAR Data",
+    journel: "2021 IEEE International Geoscience and Remote Sensing Symposium",
+    time: "Brussels, 2021.",
+    type: "(Oral)"
+  },
+  {
+    names: "M. Ma, Q. Zhu, X. Huang, J. Wu",
+    paper_title: "A Recognition Method of Hand Gesture Based on Dual-SDAE",
+    journel: "International Conference on Neural Computing for Advanced Applications",
+    time: "ShenZhen, 2020.",
+    type: "(Oral)"
+  },
+  {
+    names: "J. Wu, M. Ma, M. Liu",
+    paper_title: "An Adaptive Region-Based Method for Speckle Reduction in SAR Images with Local Geometric Correlation",
+    journel: "2018 IEEE International Geoscience and Remote Sensing Symposium",
+    time: "Valencia, 2018.",
+    type: "(Poster)"
+  },
+  {
+    names: "M. Ma, X. Xu, J. Wu, M. Guo",
+    paper_title: "Design and analyze the structure based on deep belief network for gesture recognition",
+    journel: "2018 Tenth International Conference on Advanced Computational Intelligence (ICACI)",
+    time: "Xiamen, 2018.",
+    type: "(Oral)"
+  },
+  {
+    names: "X. Huang, J. Wu, M. Ma",
+    paper_title: "A SAR Change Detection Algorithm with Classification-embedded Subspace",
+    journel: "2018 Fifth International Workshop on Earth Observation and Remote Sensing Applications (EORSA)",
+    time: "Xi'an, 2018.",
+    type: "(Oral)"
+  },
+  {
+    names: "M. Ma, Z. Chen, J. Wu",
+    paper_title: "A Recognition Method of Hand Gesture with CNN-SVM Model",
+    journel: "International Conference on Bio-Inspired Computing: Theories and Applications",
+    time: "Xi'an, 2016.",
+    type: "(Oral)"
   },
 ]
