@@ -4,7 +4,7 @@ var dataForJournalt = [
     names: "J. Wu, Q. Wang, Z. Wang, Z. Zhou",
     paper_title: "AutoBRB: An Automated Belief Rule Base Model for Pathologic Complete Response Prediction in Gastric Cancer",
     journel: "Computers in Biology and Medicine",
-    time: "2022，140,105104.",
+    time: "2022, 140: 105104.",
     type: "(SCI, IF=4.589)"
   },
   {
@@ -12,7 +12,7 @@ var dataForJournalt = [
     paper_title: "Fully Convolutional Network-Based Ensemble Method for Road Extraction from Aerial Images",
     journel: "IEEE Geoscience and Remote Sensing Letters",
     time: "2019, 17(10): 1777-1781.",
-    type: "(SCI, IF=3.534)"
+    type: "(ESI, SCI, IF=3.534)"
   },
   {
     names: "F. Liu, J. Wu, L.L. Li, L.C. Jiao, H.X. Hao, X.R. Zhang",
@@ -30,7 +30,7 @@ var dataForJournalt = [
   },
   {
     names: "J. Wu, F. Liu, H.X. Hao, L.L. Li, L.C. Jiao, X.R. Zhang",
-    paper_title: "Non-local Means for Speckle Reduction of SAR Image with Multiscale-Fusion-Based Steerable Kernel Function.",
+    paper_title: "A Non-local Means for Speckle Reduction of SAR Image with Multiscale-Fusion-Based Steerable Kernel Function",
     journel: "IEEE Geoscience and Remote Sensing Letters",
     time: "2016, 13(11): 1646-1650.",
     type: "(SCI, IF=2.228)"
@@ -38,9 +38,9 @@ var dataForJournalt = [
 
   {
     names: "F. Liu, Y.P. Duan, L.L. Li, L.C. Jiao, J. Wu, S.Y. Yang, X.R. Zhang, J.L. Yuan",
-    paper_title: "SAR image segmentation based on hieratical visual semantic and adaptive neighborhood multinomial latent model",
+    paper_title: "SAR Image Segmentation Based on Hierarchical Visual Semantic and Adaptive Neighborhood Multinomial Latent Model",
     journel: "IEEE Transactions on Geoscience and Remote Sensing",
-    time: "2016, 54(7):4287-4301.",
+    time: "2016, 54(7): 4287-4301.",
     type: "(SCI, IF=3.36)"
   },
   {
@@ -52,7 +52,7 @@ var dataForJournalt = [
   },
   {
     names: "J. Wu, F. Liu, L.C. Jiao, X.R. Zhang, H.X. Hao, S. Wang",
-    paper_title: "Local Maximal Homogeneous Region Search for SAR Speckle Reduction with Sketch-based Geometrical Kernel Function. ",
+    paper_title: "Local Maximal Homogeneous Region Search for SAR Speckle Reduction with Sketch-based Geometrical Kernel Function",
     journel: "IEEE Transactions on Geoscience and Remote Sensing",
     time: "2014, 53(9): 5751-5764.",
     type: "(SCI, IF=2.933)"
@@ -60,7 +60,7 @@ var dataForJournalt = [
   {
     names: "马苗，许西丹，武杰",
     paper_title: "一种耦合深度信念网络的图像识别方法",
-    journel: "西安电子科技大学学报",
+    journel: "西安电子科技大学学报(自然科学版)",
     time: "2018,45(05):102-107.",
     type: "(EI期刊)"
   }
