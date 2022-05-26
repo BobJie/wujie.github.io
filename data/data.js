@@ -1,6 +1,13 @@
 
 var dataForJournalt = [
   {
+    names:"G. Luis, J. Wu,  A. C. Frery", 
+    paper_title: "Non-Local Means Filters for Full Polarimetric Synthetic Aperture Radar Images with Stochastic Distances",
+    journel: "Image Processing On Line",
+    time: "2022, 12:142–172.",
+    type: ""
+  },
+  {
     names: "J. Wu, Q. Wang, Z. Wang, Z. Zhou",
     paper_title: "AutoBRB: An Automated Belief Rule Base Model for Pathologic Complete Response Prediction in Gastric Cancer",
     journel: "Computers in Biology and Medicine",
