@@ -5,7 +5,7 @@ var dataForJournalt = [
     paper_title: "Non-Local Means Filters for Full Polarimetric Synthetic Aperture Radar Images with Stochastic Distances",
     journel: "Image Processing On Line",
     time: "2022, 12:142–172.",
-    type: ""
+    type: "(ESCI)"
   },
   {
     names: "J. Wu, Q. Wang, Z. Wang, Z. Zhou",
@@ -73,7 +73,14 @@ var dataForJournalt = [
   }
 ];
 
-var dataForConferencet = [  
+var dataForConferencet = [ 
+  {
+    names:"J. Wu, X Miao, Q. Wang, T. Wu, Z. Zhou",
+    paper_title: "Predicting Distant Metastasis Through a Principal Component Analysis Based Belief Rule Base in Oropharyngeal Cancer",
+    journel: "MEDICAL PHYSICS",
+    time: "2022, 49(6):786.",
+    type: "(Oral, SCI, IF=4.506) "  
+  },
   {
     names: "Q. Wang, J. Wu, Z. Wang, M. Liu, M. Ma, Z. Zhou",
     paper_title: "Predicting Pathological Complete Response Through Automatic Belief Rule Base in Gastric Cancer",
