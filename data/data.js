@@ -75,6 +75,13 @@ var dataForJournalt = [
 
 var dataForConferencet = [ 
   {
+    names:"J. Wu, L. Gomez, A. C. Frery",
+    paper_title: "A Non-Local Means Filters for Sar Speckle Reduction with Likelihood Ratio Test",
+    journel: "2022 IEEE International Geoscience and Remote Sensing Symposium",
+    time: "Kuala Lumpur, 2022.",
+    type: "(Oral)"
+  },
+  {
     names:"J. Wu, X Miao, Q. Wang, T. Wu, Z. Zhou",
     paper_title: "Predicting Distant Metastasis Through a Principal Component Analysis Based Belief Rule Base in Oropharyngeal Cancer",
     journel: "MEDICAL PHYSICS",
