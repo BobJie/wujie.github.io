@@ -75,6 +75,13 @@ var dataForJournalt = [
 
 var dataForConferencet = [ 
   {
+    names: "K. Xie, R. Ma, Y. Luo, P. Li, J. Wu",
+    paper_title: "A framework for purchasing and transferring materials for enterprise production",
+    journel: "Proc. SPIE 12500, Fifth International Conference on Mechatronics and Computer Technology Engineering (MCTE 2022)",
+    time: "ChongQing, 2022.",
+    type: "(Oral)"
+  },
+  {
     names:"J. Wu, L. Gomez, A. C. Frery",
     paper_title: "A Non-Local Means Filters for Sar Speckle Reduction with Likelihood Ratio Test",
     journel: "2022 IEEE International Geoscience and Remote Sensing Symposium",
