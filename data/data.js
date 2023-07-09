@@ -4,8 +4,8 @@ var dataForJournalt = [
     names:"Z.L. Wang, Q.W. Wang, J. Wu, M. Ma, Z. Pei, Y.S. Sun, Z.G. Zhou", 
     paper_title: "An Ensemble Belief Rule Base Model for Pathologic Complete Response Prediction in Gastric Cancer",
     journel: "Expert Systems With Applications",
-    time: "2023(accept)",
-    type: "(SCI)"
+    time: "2023 (accepted).",
+    type: "(SCI, IF=8.5)"
   },
   {
     names:"G. Luis, J. Wu,  A. C. Frery", 
