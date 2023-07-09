@@ -1,6 +1,13 @@
 
 var dataForJournalt = [
   {
+    names:"Z.L. Wang, Q.W. Wang, J. Wu, M. Ma, Z. Pei, Y.S. Sun, Z.G. Zhou", 
+    paper_title: "An Ensemble Belief Rule Base Model for Pathologic Complete Response Prediction in Gastric Cancer",
+    journel: "Expert Systems With Applications",
+    time: "2023(accept)",
+    type: "(SCI)"
+  },
+  {
     names:"G. Luis, J. Wu,  A. C. Frery", 
     paper_title: "Non-Local Means Filters for Full Polarimetric Synthetic Aperture Radar Images with Stochastic Distances",
     journel: "Image Processing On Line",
