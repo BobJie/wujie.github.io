@@ -80,7 +80,14 @@ var dataForJournalt = [
   }
 ];
 
-var dataForConferencet = [ 
+var dataForConferencet = [
+  {
+    names: "R. Ma, Y. Luo, K. Xie, P. Li, J. Wu",
+    paper_title: "Substation priority maintenance planning based on genetic ant colony algorithm",
+    journel: "Fifth International Conference on Computer Information Science and Artificial Intelligence",
+    time: "ChongQing, 2022.",
+    type: "(Oral)"
+  }, 
   {
     names: "K. Xie, R. Ma, Y. Luo, P. Li, J. Wu",
     paper_title: "A framework for purchasing and transferring materials for enterprise production",
