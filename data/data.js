@@ -36,6 +36,20 @@ var dataForJournalt = [
     type: "(SCI, IF=4.662)"
   },
   {
+    names: "M. Liu, S. Chen, J. Wu, F. Lu, J. Wang, T. Yang",
+    paper_title: "Configuration Recognition via Class-Dependent Structure Preserving Projections with Application to Targets in SAR Images",
+    journel: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    time: "2018, 11(6): 2134-2146.",
+    type: "(SCI, IF=5.5)"
+  },
+  {
+    names: "M. Liu, S. Chen, J. Wu, F. Lu, X. Wang, M. Xing",
+    paper_title: "SAR Target Configuration Recognition via Two-Stage Sparse Structure Representation",
+    journel: "IEEE Transactions on Geoscience and Remote Sensing",
+    time: "2018, 54(4): 2220-2232.",
+    type: "(SCI, IF=8.2)"
+  },
+  {
     names: "Y.P. Duan, F. Liu, L.C. Jiao, X.M. Tao, J. Wu, C. Shi, M. O. Wimmers",
     paper_title: "Adaptive Hierarchical Multinomial Latent Model with Hybrid Kernel Function for SAR Image Semantic Segmentation",
     journel: "IEEE Transactions on Geoscience and Remote Sensing",
@@ -103,7 +117,7 @@ var dataForConferencet = [
     type: "(Oral)"
   },
   {
-    names:"J. Wu, X Miao, Q. Wang, T. Wu, Z. Zhou",
+    names:"J. Wu, X. Xing, Q. Wang, T. Wu, Z. Zhou",
     paper_title: "Predicting Distant Metastasis Through a Principal Component Analysis Based Belief Rule Base in Oropharyngeal Cancer",
     journel: "MEDICAL PHYSICS",
     time: "2022, 49(6):786.",
@@ -140,6 +154,20 @@ var dataForConferencet = [
   {
     names: "J. Wu, M. Ma, M. Liu",
     paper_title: "An Adaptive Region-Based Method for Speckle Reduction in SAR Images with Local Geometric Correlation",
+    journel: "2018 IEEE International Geoscience and Remote Sensing Symposium",
+    time: "Valencia, 2018.",
+    type: "(Poster)"
+  },  
+  {
+    names: "M. Liu, S. Chen, F. Lu, J. Wang, J. Wu, T. Yang",
+    paper_title: "Achieving Sar Target Configuration Recognition By Combining Sparse Graph And Locality Preserving Projections",
+    journel: "2018 IEEE International Geoscience and Remote Sensing Symposium",
+    time: "Valencia, 2018.",
+    type: "(Poster)"
+  },
+  {
+    names: "M. Liu, S. Chen, F. Lu, J. Wang, J. Wu, T. Yang",
+    paper_title: "A Fast Sparse Representation Method for SAR Target Configuration Recognition",
     journel: "2018 IEEE International Geoscience and Remote Sensing Symposium",
     time: "Valencia, 2018.",
     type: "(Poster)"
