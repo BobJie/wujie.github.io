@@ -63,7 +63,6 @@ var dataForJournalt = [
     time: "2016, 13(11): 1646-1650.",
     type: "(SCI, IF=2.228)"
   },
-
   {
     names: "F. Liu, Y.P. Duan, L.L. Li, L.C. Jiao, J. Wu, S.Y. Yang, X.R. Zhang, J.L. Yuan",
     paper_title: "SAR Image Segmentation Based on Hierarchical Visual Semantic and Adaptive Neighborhood Multinomial Latent Model",
